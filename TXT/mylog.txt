@@ -1,5 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 15 L00 Setup GitHub repository for OS212
-ZCZC W00 75 L01 Setup initial GH pages index.html
+ZCZC W00 15 L01 Assignment #01 (Setting up GitHub repository)
+ZCZC W00 5 L02 Assignment #02 (Created log TXT file)
+ZCZC W00 75 L03 Assignment #03 (Created GitHub page index.html)
+ZCZC W00 15 L04 Assignment #04 (Finished course registration)
