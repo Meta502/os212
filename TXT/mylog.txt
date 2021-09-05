@@ -6,5 +6,5 @@ ZCZC W00 5 L02 Assignment #02 (Created log TXT file)
 ZCZC W00 75 L03 Assignment #03 (Created GitHub page index.html)
 ZCZC W00 15 L04 Assignment #04 (Finished course registration)
 ZCZC W00 90 L05 Assignment #05 (Finished Reading Assignment given in vlsm.org)
-ZCZC W00 120 L06 Setup VM for Week 1
-ZCZC W00 45 L07 Helped a friend setup their Linux instance and taught basic Linux commands
+ZCZC W01 120 L06 Setup VM for Week 1
+ZCZC W01 45 L07 Helped a friend setup their Linux instance and taught basic Linux commands
