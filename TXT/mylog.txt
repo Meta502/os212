@@ -1,10 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 15 L01 Assignment #01 (Setting up GitHub repository)
-ZCZC W00 5 L02 Assignment #02 (Created log TXT file)
-ZCZC W00 75 L03 Assignment #03 (Created GitHub page index.html)
-ZCZC W00 15 L04 Assignment #04 (Finished course registration)
-ZCZC W00 90 L05 Assignment #05 (Finished Reading Assignment given in vlsm.org)
-ZCZC W01 120 L06 Setup VM for Week 1
-ZCZC W01 45 L07 Helped a friend setup their Linux instance and taught basic Linux commands
+ZCZC W00 15 L11 Assignment #01 (Setting up GitHub repository)
+ZCZC W00 5 L12 Assignment #02 (Created log TXT file)
+ZCZC W00 75 L13 Assignment #03 (Created GitHub page index.html)
+ZCZC W00 15 L14 Assignment #04 (Finished course registration)
+ZCZC W00 90 L15 Assignment #05 (Finished Reading Assignment given in vlsm.org)
+ZCZC W01 120 L11 Setup VM for Week 1
+ZCZC W01 45 L64 Helped a friend setup their Linux instance and taught basic Linux commands
