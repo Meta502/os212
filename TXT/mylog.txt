@@ -14,7 +14,7 @@ ZCZC W01 120 L13 Assignment #03 (Watched videos in osp4diss.vlsm.org, tried out 
 ZCZC W01 40 L14 Assignment #04 (Setup aliases, custom shell)
 ZCZC W01 15 L15 Assignment #05 (Setup GitHub SSH key authentication)
 ZCZC W01 20 L16 Assignment #06 (Setup LINKS page and added some useful links that I used to refresh my knowledge on awk and man
-ZCZC W01 15 L25 Created a simple script to automate updating, decrypting, and displaying total score from the given tarball.
+ZCZC W01 15 L25 Created a simple script to automate updating, decrypting, and displaying total score from os.vlsm.org/Log tarball.
 ZCZC W01 15 L24 Added QOL aliases for checking log codes from terminal using curl.
 ZCZC W01 7 L17 Assignment #07 (Updated log from virtual guest to reflect current progress).
 ZCZC W01 12 L06 Some GSGS on potentially useful regex patterns
