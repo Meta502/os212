@@ -1,4 +1,10 @@
-## OS212 - Adrian Ardizza
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+# OS212 - Adrian Ardizza
 Hello, my name is Adrian Ardizza. Welcome to my repository for the Operating Systems 2021-2 course.
 
 **Pages:**
