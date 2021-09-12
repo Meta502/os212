@@ -18,4 +18,5 @@ ZCZC W01 15 L25 Created a simple script to automate updating, decrypting, and di
 ZCZC W01 15 L24 Added QOL aliases for checking log codes from terminal using curl.
 ZCZC W01 7 L17 Assignment #07 (Updated log from virtual guest to reflect current progress).
 ZCZC W01 12 L06 Some GSGS on potentially useful regex patterns
-
+ZCZC W01 90 L18 Messed around with text manipulatin using sed and regex
+ZCZC W01 120 L19 Read the required reading materials from OSC
