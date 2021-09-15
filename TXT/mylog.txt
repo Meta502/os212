@@ -20,3 +20,7 @@ ZCZC W01 7 L17 Assignment #07 (Updated log from virtual guest to reflect current
 ZCZC W01 12 L06 Some GSGS on potentially useful regex patterns
 ZCZC W01 90 L18 Messed around with text manipulatin using sed and regex
 ZCZC W01 120 L19 Read the required reading materials from OSC
+ZCZC W02 30 L13 Generate a new GnuPG Key Pair with passphrase
+ZCZC W02 10 L14 Learnt how to list current GnuPG keys
+ZCZC W02 20 L15 Signed Operating Systems public key with my GPG key
+ZCZC W02 5 L16 Exported public key to "mypubkey.txt" in my os212 repo
