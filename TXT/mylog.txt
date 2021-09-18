@@ -24,3 +24,10 @@ ZCZC W02 30 L13 Generate a new GnuPG Key Pair with passphrase
 ZCZC W02 10 L14 Learnt how to list current GnuPG keys
 ZCZC W02 20 L15 Signed Operating Systems public key with my GPG key
 ZCZC W02 5 L16 Exported public key to "mypubkey.txt" in my os212 repo
+ZCZC W02 90 L11 Read Week 02 materials from OSC10 Chapter 16 + 17
+ZCZC W02 60 L12 Tried out some of the demos given in the SistemOperasi repo, specifically the ones related to the C Programming Language
+ZCZC W02 180 L13 Watched the introduction to cyber security videos given by the slide
+ZCZC W02 30 L20 Peer-review LINKS pages of a few of my nearest LOG neighbours
+ZCZC W02 15 L00 Add the given myscript.sh to my os212 repo and created SHA256 sums for the .txt files in the TXT folder along with a detached sig
+
+
