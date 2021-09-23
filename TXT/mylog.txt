@@ -30,3 +30,8 @@ ZCZC W02 180 L13 Watched the introduction to cyber security videos given by the 
 ZCZC W02 30 L20 Peer-review LINKS pages of a few of my nearest LOG neighbours
 ZCZC W02 15 L09 Add the given myscript.sh to my os212 repo and created SHA256 sums for the .txt files in the TXT folder along with a detached sig
 ZCZC W02 15 L09 Updated my log
+ZCZC W03 75 L11 Read more about about File Systems from OSC10
+ZCZC W03 40 L12 Tried some of the demos in the SistemOperasi repo
+ZCZC W03 5 L14 Checked if .bash_aliases is up to date
+ZCZC W03 45 Created a 10MB virtual disk, added it to the virtual SATA controller, mounted it to /Meta502 and fixed permissions.
+
