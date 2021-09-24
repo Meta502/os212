@@ -18,3 +18,12 @@ how to access a CLI from your computer, and also some basic commands including b
 4. [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 A short intro to shell scripting in Linux. This is quite useful for transitioning from Python scripting (which most of us are used to from DDP1) to shell scripting using sh/bash, with some
 useful basic examples including one for backing up a folder into a tarball.
+
+5. [An Introduction to Linux Filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems)
+A useful article that introduces readers to Filesystems in Linux, starting from it'sd efinition, function, directory structure, and types.
+
+6. [Red Hat - ext4 File System Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-ext4)
+Rough outline on ext4, the current primary filesystem used for most modern linux distros.
+
+7. [The Comparison of Btrfs vs ext4 Filesystems](https://linuxhint.com/btrfs-vs-ext4-filesystems-comparison/)
+A comparison between ext4 and the more modern Btrfs. Btrfs is a new CoW (copy on write) file system developed in 2009 that is starting to get more traction due to it's increased partition size and number of files.
