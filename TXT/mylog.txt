@@ -32,9 +32,10 @@ ZCZC W02 15 L09 Add the given myscript.sh to my os212 repo and created SHA256 su
 ZCZC W02 15 L09 Updated my log
 ZCZC W03 75 L11 Read more about about File Systems from OSC10
 ZCZC W03 40 L12 Tried some of the demos in the SistemOperasi repo
+ZCZC W03 90 L13 Tried to do some questions in last year's mid-term exams
 ZCZC W03 5 L14 Checked if .bash_aliases is up to date
-ZCZC W03 45 L15 Created a 10MB virtual disk, added it to the virtual SATA controller, mounted it to /Meta502 and fixed permissions.
-ZCZC W03 30 L16 Added links to some useful articles that i've read this week on filesystems.
-ZCZC W03 60 L17 Reviewed links of 10 peers, chose 3 to be my top 3 for this week.
+ZCZC W03 45 L15 Created a 10MB virtual disk, added it to the virtual SATA controller, mounted it to /Meta502 and fixed permissions
+ZCZC W03 30 L16 Added links to some useful articles that i've read this week on filesystems
+ZCZC W03 60 L17 Reviewed links of 10 peers, chose 3 to be my top 3 for this week
 ZCZC W03 15 L18 Updated mylog (this file :D)
 ZCZC W03 20 L19 Submitted my week 3 assignment using the revised myscript.sh
