@@ -39,3 +39,8 @@ ZCZC W03 30 L16 Added links to some useful articles that i've read this week on 
 ZCZC W03 60 L17 Reviewed links of 10 peers, chose 3 to be my top 3 for this week
 ZCZC W03 15 L18 Updated mylog (this file :D)
 ZCZC W03 20 L19 Submitted my week 3 assignment using the revised myscript.sh
+ZCZC W04 60 L11 Read OSC10 chapter 9 about Main Memory.
+ZCZC W04 40 L12 Tried out some demos about memory from the SistemOperasi repo.
+ZCZC W04 60 L13 Tried out some of the previous mid-term problems given in the slide.
+ZCZC W04 10 L14 Installed TLPI package list.
+ZCZC W04 20 L15 Fetched, decrypted, and compiled the TLPI folder.
