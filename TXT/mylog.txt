@@ -44,3 +44,7 @@ ZCZC W04 40 L12 Tried out some demos about memory from the SistemOperasi repo.
 ZCZC W04 60 L13 Tried out some of the previous mid-term problems given in the slide.
 ZCZC W04 10 L14 Installed TLPI package list.
 ZCZC W04 20 L15 Fetched, decrypted, and compiled the TLPI folder.
+ZCZC W04 30 L16 Added pages that i've read while learning about C memory allocation to my links.md
+ZCZC W04 60 L17 Reviewed peer links for the next 10 peers.
+ZCZC W04 10 L18 Updated my log (this file :D)
+ZCZC W04 5 L19 Executed myscript.sh to generate new checksums and submit W04 assignments.

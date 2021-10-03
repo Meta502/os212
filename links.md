@@ -4,6 +4,8 @@ permalink: /LINKS/
 ---
 
 # Links
+
+## Week 02
 1. [AWK command in Unix/Linux with examples](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
 Explains the basics of how to use the Awk command, complete with an explanation of what Awk is, what it can be used for, and examples on how to use it.
 
@@ -19,6 +21,7 @@ how to access a CLI from your computer, and also some basic commands including b
 A short intro to shell scripting in Linux. This is quite useful for transitioning from Python scripting (which most of us are used to from DDP1) to shell scripting using sh/bash, with some
 useful basic examples including one for backing up a folder into a tarball.
 
+## Week 03
 5. [An Introduction to Linux Filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems)
 A useful article that introduces readers to Filesystems in Linux, starting from it'sd efinition, function, directory structure, and types.
 
@@ -27,3 +30,13 @@ Rough outline on ext4, the current primary filesystem used for most modern linux
 
 7. [The Comparison of Btrfs vs ext4 Filesystems](https://linuxhint.com/btrfs-vs-ext4-filesystems-comparison/)
 A comparison between ext4 and the more modern Btrfs. Btrfs is a new CoW (copy on write) file system developed in 2009 that is starting to get more traction due to it's increased partition size and number of files.
+
+## Week 04
+8. [StackOverflow - C Memory Management](https://stackoverflow.com/questions/24891/c-memory-management/24922)
+A thread discussing about how memory management works in the C programming language.
+
+9. [CodingUnit - The functions malloc and free](https://www.codingunit.com/c-tutorial-the-functions-malloc-and-free)
+This post explains about the basics of using the malloc and free command in the C programming language. In my opinion it is quite useful for learning about how C pointers relate to the malloc and free command.
+
+10. [Programiz - C Dynamic Memory Allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
+Like the previous entry, this post explains about C memory allocation, but it also includes an intro on the calloc command.
