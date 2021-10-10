@@ -44,7 +44,9 @@ Like the previous entry, this post explains about C memory allocation, but it al
 ## Week 05
 11. [GeeksForGeeks - Copy on Write](https://www.geeksforgeeks.org/copy-on-write/)
 A useful article explaining the concept of Copy on Write as a system resource management technique.
+
 12. [javatpoint - Demand Paging](https://www.javatpoint.com/os-demand-paging)
 An article explaining about Demand Paging as a concept.
+
 13. [Tech Monitor - What is virtual memory?](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986#:~:text=Virtual%20memory%20is%20a%20feature,space%20on%20the%20hard%20disk.)
 This article explains about the basics of Virtual Memory in Operating Systems, and why it is implemented.
