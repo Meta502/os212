@@ -48,3 +48,11 @@ ZCZC W04 30 L16 Added pages that i've read while learning about C memory allocat
 ZCZC W04 60 L17 Reviewed peer links for the next 10 peers.
 ZCZC W04 10 L18 Updated my log (this file :D)
 ZCZC W04 5 L19 Executed myscript.sh to generate new checksums and submit W04 assignments.
+ZCZC W05 60 L11 Read OSC10 Chapter 10 about Virtual Memory
+ZCZC W05 75 L12 Tried demos given in the SistemOperasi repository
+ZCZC W05 40 L13 Tried doing previous midterm problems given on rms46.vlsm.org
+ZCZC W05 50 L14 Modified mymemory2c and found that the lowest possible RAM size before the system doesn't boot is 185MB for Debian 11
+ZCZC W05 30 L15 Added some links to articles that explain about Virtual Memory.
+ZCZC W05 30 L17 Reviewed some of my peer's GH pages
+ZCZC W05 15 L18 Updated my log
+ZCZC W05 5 L19 Updated checksums, submitted assignments for week 5.
