@@ -56,3 +56,8 @@ ZCZC W05 30 L15 Added some links to articles that explain about Virtual Memory.
 ZCZC W05 30 L17 Reviewed some of my peer's GH pages
 ZCZC W05 15 L18 Updated my log
 ZCZC W05 5 L19 Updated checksums, submitted assignments for week 5.
+ZCZC W06 120 L11 Read OSC10 chapter 3 and 4 about processes and thread concurrency
+ZCZC W06 60 L12 Tried some demos given in the SistemOperasi repository
+ZCZC W06 60 L13 Tried some of the previous mid-term problems given in rms46.vlsm.org
+ZCZC W06 30 L14 Finished the given assignments for Fork() and Shared Memory, copied, and encrypted the file for submission
+
