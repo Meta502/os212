@@ -50,3 +50,13 @@ An article explaining about Demand Paging as a concept.
 
 13. [Tech Monitor - What is virtual memory?](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986#:~:text=Virtual%20memory%20is%20a%20feature,space%20on%20the%20hard%20disk.)
 This article explains about the basics of Virtual Memory in Operating Systems, and why it is implemented.
+
+## Week 06
+14. [man7.org - fork()](https://man7.org/linux/man-pages/man2/fork.2.html)
+An entry on the Linux manual page about the fork function, how to use it, and it's use cases.
+
+15. [GeeksForGeeks - fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+An article that explains about C's implementation and usage of the fork() function.
+
+16. [Wikipedia - fork (system call)](https://en.wikipedia.org/wiki/Fork_(system_call))
+The Wikipedia article for fork that explains in depth about the history and variations of the fork function.

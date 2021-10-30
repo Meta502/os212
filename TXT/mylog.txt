@@ -60,4 +60,7 @@ ZCZC W06 120 L11 Read OSC10 chapter 3 and 4 about processes and thread concurren
 ZCZC W06 60 L12 Tried some demos given in the SistemOperasi repository
 ZCZC W06 60 L13 Tried some of the previous mid-term problems given in rms46.vlsm.org
 ZCZC W06 30 L14 Finished the given assignments for Fork() and Shared Memory, copied, and encrypted the file for submission
-
+ZCZC W06 20 L15 Added some interesting links to resources about the fork() function.
+ZCZC W06 50 L17 Reviewed peer links
+ZCZC W06 15 L18 Updated mylog.txt
+ZCZC W06 10 L19 Submit W06 Assignments (Finished)
