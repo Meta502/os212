@@ -64,3 +64,8 @@ ZCZC W06 20 L15 Added some interesting links to resources about the fork() funct
 ZCZC W06 50 L17 Reviewed peer links
 ZCZC W06 15 L18 Updated mylog.txt
 ZCZC W06 10 L19 Submit W06 Assignments (Finished)
+ZCZC W07 140 L11 Finished OSC10 chapter 6, 7, 8 reading assignment
+ZCZC W07 60 L12 Tried some demos on the SistemOperasi repo
+ZCZC W07 45 L13 Tried doing previous mid-term problems on rms46.vlsm.org
+ZCZC W07 90 L14 Did the Synchronization and Shared Memory assignment
+
