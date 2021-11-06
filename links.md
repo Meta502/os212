@@ -60,3 +60,11 @@ An article that explains about C's implementation and usage of the fork() functi
 
 16. [Wikipedia - fork (system call)](https://en.wikipedia.org/wiki/Fork_(system_call))
 The Wikipedia article for fork that explains in depth about the history and variations of the fork function.
+
+## Week 07
+17. [StackOverFlow - How to use shared memory with linux in C](https://stackoverflow.com/questions/5656530/how-to-use-shared-memory-with-linux-in-c)
+A StackOverFlow post discussing about how to use shared memory in Linux.
+18. [man7.org - shm_overview](http://localhost:8000/faq/)
+An overview on the usage of the POSIX shared memory API.
+19. [tutorialspoint - Inter Process Communication - Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)
+An article explaining about the concept of shared memory and IPC and it's usage.

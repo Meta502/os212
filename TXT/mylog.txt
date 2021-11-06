@@ -68,4 +68,7 @@ ZCZC W07 140 L11 Finished OSC10 chapter 6, 7, 8 reading assignment
 ZCZC W07 60 L12 Tried some demos on the SistemOperasi repo
 ZCZC W07 45 L13 Tried doing previous mid-term problems on rms46.vlsm.org
 ZCZC W07 90 L14 Did the Synchronization and Shared Memory assignment
-
+ZCZC W07 60 L15 Added some useful links to my links page.
+ZCZC W07 45 L17 Reviewed peer links
+ZCZC W07 20 L18 Updated mylog.txt
+ZCZC W07 5 L19 Submitted assignment to GitHub
