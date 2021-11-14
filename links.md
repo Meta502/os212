@@ -68,3 +68,12 @@ A StackOverFlow post discussing about how to use shared memory in Linux.
 An overview on the usage of the POSIX shared memory API.
 19. [tutorialspoint - Inter Process Communication - Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)
 An article explaining about the concept of shared memory and IPC and it's usage.
+
+## Week 08
+20. [LFS - Linux From Scratch](https://www.linuxfromscratch.org/)
+The official LFS project page with step by step instructions for building an LFS system.
+21. [Wikipedia - Linux From Scratch](https://en.wikipedia.org/wiki/Linux_From_Scratch)
+Wikipedia article with general knowledge about LFS
+22. [YouTube - Linux From Scratch 8.2](https://www.youtube.com/watch?v=5tRJgDJC7kY)
+A series on how to build LFS 8.2, useful for general pointers.
+

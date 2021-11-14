@@ -72,3 +72,12 @@ ZCZC W07 60 L15 Added some useful links to my links page.
 ZCZC W07 45 L17 Reviewed peer links
 ZCZC W07 20 L18 Updated mylog.txt
 ZCZC W07 5 L19 Submitted assignment to GitHub
+ZCZC W08 90 L11 Read OSC10 chapter 5
+ZCZC W08 60 L12 Tried Week 8 demos
+ZCZC W08 60 L13 Tried doing some previous final term problems for W08
+ZCZC W08 90 L14 Setup LFS (Chapter 1-4)
+ZCZC W08 240 L15 Compiled Cross-Toolchain for LFS (Finish chapter 5)
+ZCZC W08 30 L16 Added some useful links to my links.md
+ZCZC W08 40 L18 Review peer links
+ZCZC W08 10 L19 Update mylog
+ZCZC W08 5 L20 Submit assignments to GitHub
