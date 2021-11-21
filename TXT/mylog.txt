@@ -84,5 +84,8 @@ ZCZC W08 5 L20 Submit assignments to GitHub
 ZCZC W09 90 L11 Read OSC10 chapter 11
 ZCZC W09 45 L12 Tried out some demos in the SistemOperasi repo
 ZCZC W09 60 L13 Tried out some previous midterm problems in rms46.vlsm.org
-ZCZC @09 420 L14 Finished Chapter 6 and 7 of LFS and backed up LFS image
+ZCZC W09 420 L14 Finished Chapter 6 and 7 of LFS and backed up LFS image
+ZCZC W09 60 L15 Updated bookmark links.
 
+ZCZC W09 15 L18 Updated mylog.txt
+ZCZC W09 10 L19 Submitted Week 09 assignments

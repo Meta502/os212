@@ -77,3 +77,12 @@ Wikipedia article with general knowledge about LFS
 22. [YouTube - Linux From Scratch 8.2](https://www.youtube.com/watch?v=5tRJgDJC7kY)
 A series on how to build LFS 8.2, useful for general pointers.
 
+## Week 09
+23. [LFS - Chapter 8](https://www.linuxfromscratch.org/lfs/view/development/chapter08/chapter08.html)
+Official resource on how to build the actual LFS system after setting up chroot. Alot of potential issues and warnings that may occur are covered in the guide, with any other edge cases being solvable with a quick google search.
+
+24. [LinuxQuestions - zic: can't open sh yearistype.sh](https://www.linuxquestions.org/questions/linux-from-scratch-13/lfs-7-2-chapter-6-9-2-zic-can%27t-open-sh-yearistype-sh-4175447157/)
+A forum post about a bug that may occur while setting up libstdc timezones. Apparently the enviroment variable for $TIMEZONE might get reset every so often, so be sure to set it back to /usr/share/zoneinfo. Also note that the timezone tar file included with OS212 is outdated (the one given is the a revision, while the one on the guide is a newer revision).
+
+25. [sis.pitt.edu - What is a Makefile?](http://www.sis.pitt.edu/mbsclass/tutorial/advanced/makefile/whatis.htm#:~:text=A%20makefile%20is%20a%20special,Makefile%20depending%20upon%20the%20system).&text=These%20rules%20tell%20the%20system,recompile)%20a%20series%20of%20files.)
+I was curious on what a Makefile actually is. This resource gives a clear definition of what it is and it's significance in the build process.
